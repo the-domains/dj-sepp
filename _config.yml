@@ -1,0 +1,28 @@
+name: DJ Sepp
+favicon: null
+layout_spectrum: 0.7032501832582057
+typography_spectrum: 0.49377534445375204
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9359476831741631
+  lightness: 0.6351353861391544
+  saturation: 0.025002758018672466
+  rhythmicContrast: 0.8905770864803344
+purpose: []
