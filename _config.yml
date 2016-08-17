@@ -1,28 +1,40 @@
-name: DJ Sepp
-favicon: null
-layout_spectrum: 0.24845
-typography_spectrum: 0.65299
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.1875
+  brandStrength: 0.875
+  rhythmicContrast: 0.75
   brandColors:
     - '#526988'
     - '#a7b4c4'
     - '#243958'
     - '#ffffff'
     - '#0f1111'
-  brandStrength: 0.875
   lightness: 0.6351353861391544
-  saturation: 0.1875
-  rhythmicContrast: 0.75
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: DJ Sepp
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.2939068
+layout_spectrum: 0.2526882
